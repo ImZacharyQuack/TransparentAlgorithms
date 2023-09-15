@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TransparentAlgorithms/static/css/main.e0b52cbf.css",
+    "main.js": "/TransparentAlgorithms/static/js/main.358c4a19.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TransparentAlgorithms/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TransparentAlgorithms/index.html",
+    "main.e0b52cbf.css.map": "/TransparentAlgorithms/static/css/main.e0b52cbf.css.map",
+    "main.358c4a19.js.map": "/TransparentAlgorithms/static/js/main.358c4a19.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TransparentAlgorithms/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0b52cbf.css",
+    "static/js/main.358c4a19.js"
+  ]
+}
